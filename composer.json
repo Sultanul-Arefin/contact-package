@@ -1,0 +1,19 @@
+{
+    "name": "sultan/contact",
+    "description": "This will be contact form",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Sultan\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Sultanul-Arfin",
+            "email": "fahimsultan4@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
